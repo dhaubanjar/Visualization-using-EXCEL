@@ -1,0 +1,17 @@
+1. Using XLOOKUP, I pulled up the customer names from the customers table into orders table.
+2. Using XLOOKUP, I again pulled up the email address from customers table and replaced the 0 value with empty space.
+3. Using the XLOOKUP, I again pulled up the country names from the customers table.
+4. Using INDEX, I matched the index of orders table with the products table and pulled the data dynamically.
+5. Calculated sales amount by multiplying Quantity and Unit price
+6. using IF in the new Coffee Type FName, I converted Rob - Robusta, Exc - Excelsa, Lib - Liberica, Ara - Arabica
+7. Using IF, I changed the new Roast Type Fname column, I converted M = Medium, L - Light, D - Dark
+8. FORMATED the date, currency, and removed duplicates (DATA)
+9. Convert the data into TABLE
+10. Created a Pivot table
+11. created a line chart for the Total sales over time
+12. Created a timeline using the date, Type of Coffee, and the sum of sales
+13. <<Couldn't edit the timeline design>>
+14. Created a Slicer for Roast Type, Size, and Loyalty Card, Created a Duplicate of the slicer design and edited it as a custom design
+14. Created Bar chart for Sales By Country and Top Five Customers(format Top 10 data and replace with number 5 items)
+15. Copied all the charts in one dashboard and linked all slicers and the timeline using Report Connections.
+
